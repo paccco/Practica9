@@ -6,8 +6,9 @@ Aaron: crear archivo del frontend con su contenido y añadir informacion en la p
 # INFO SOBRE LAS IMPLEMENTACIONES
 
 ## BACKEND
-------- TEXTO DE EJEMPLO -------
+Backend chulisimo implementado
 
 ## FRONTEND
 ------- TEXTO DE EJEMPLO -------
+
 
