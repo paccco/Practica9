@@ -6,7 +6,8 @@ Aaron: crear archivo del frontend con su contenido y añadir informacion en la p
 # INFO SOBRE LAS IMPLEMENTACIONES
 
 ## BACKEND
-<rellenar>
+------- TEXTO DE EJEMPLO -------
 
 ## FRONTEND
-<rellenar>
+------- TEXTO DE EJEMPLO -------
+
