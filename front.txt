@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ME GUSTA MI FRONTEND - RAMÓN Y CAJAL</title>
+</head>
+<body>
+<h1>Encabezado 1</h1>
+<p>Párrafo 1</p>
+<img src="imagen.jpg">
+<form>
+<input type="text" name="nombre">
+<input type="submit">
+</form>
+</body>
+</html>

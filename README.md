@@ -9,5 +9,5 @@ Aaron: crear archivo del frontend con su contenido y añadir informacion en la p
 ------- TEXTO DE EJEMPLO -------
 
 ## FRONTEND
-------- TEXTO DE EJEMPLO -------
+SUBIDA DEL FRONT.
 
