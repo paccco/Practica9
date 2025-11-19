@@ -11,4 +11,5 @@ Backend chulisimo implementado
 ## FRONTEND
 SUBIDA DEL FRONT.
 
-
+## Base de datos
+Implementada
